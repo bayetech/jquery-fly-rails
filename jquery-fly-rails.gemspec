@@ -2,8 +2,8 @@
 require File.expand_path('../lib/jquery-fly-rails/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ['Eric Guo']
-  gem.email         = ['guochunzhong@bayekeji.com']
+  gem.authors       = ['wuyuedong']
+  gem.email         = ['guochunzhong@bayekeji.com', 'hzxs1990225@163.com']
   gem.description   = 'Add to cart - animation effect'
   gem.summary       = 'Add to cart - animation effect'
   gem.homepage      = 'https://github.com/bayetech/jquery-fly-rails'
